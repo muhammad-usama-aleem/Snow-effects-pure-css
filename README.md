@@ -1,1 +1,1 @@
-# Snow-effects-pure-css
+# Rain Effect using Java script
